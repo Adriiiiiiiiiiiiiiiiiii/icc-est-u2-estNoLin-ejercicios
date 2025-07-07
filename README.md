@@ -290,4 +290,5 @@ A continuación, se presenta un resumen de la ejecución de pruebas unitarias pa
 
 > 🟢 **Todos los tests se ejecutaron correctamente sin errores (exit code 0).**
 
+![image](https://github.com/user-attachments/assets/52f1dfae-f380-4ae3-9816-b72429f52613)
 
